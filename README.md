@@ -1,7 +1,7 @@
 # Official implementation for **A-TPT**
 
 ## 1. Framework
-![image](framework.png)
+![image](fm.png)
 
 Our implementation follows previous works [RTPT](https://github.com/TomSheng21/R-TPT) and [adversarial-attacks-pytorch](https://github.com/Harry24k/adversarial-attacks-pytorch). 
 Thanks to their authors for providing reprodible experimental results and detailed code basis. 

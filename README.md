@@ -62,3 +62,6 @@ python atpt.py dataset --test_sets DTD --dataset_mode test -a ViT-B/32 -p 50 --c
 ```bash
 python atpt.py dataset --test_sets DTD --dataset_mode test -a ViT-B/32 -p 50 --ctx_init a_photo_of_a --seed 0 --output_dir output_results/ckps/rtpt --eps 4.0 --steps 100 --view-gen-mode attn_augmix --attn_p_high 0.2 --attn_p_low 0.8 --attn_m_high 0.8 --attn_m_low 0.2
 ```
+
+## 5. BibTex
+
